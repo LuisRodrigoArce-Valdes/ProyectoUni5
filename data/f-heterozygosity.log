@@ -20,4 +20,4 @@ Warning: Expected at least 2 parts in INFO entry: ID=RPA,Number=.,Type=Integer,D
 After filtering, kept 107 out of 107 Individuals
 Outputting Individual Heterozygosity
 After filtering, kept 13092 out of a possible 13092 Sites
-Run Time = 0.00 seconds
+Run Time = 1.00 seconds

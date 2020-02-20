@@ -21,4 +21,4 @@ Warning: Expected at least 2 parts in INFO entry: ID=RPA,Number=.,Type=Integer,D
 After filtering, kept 107 out of 107 Individuals
 Outputting VCF file...
 After filtering, kept 5224 out of a possible 13092 Sites
-Run Time = 2.00 seconds
+Run Time = 1.00 seconds
